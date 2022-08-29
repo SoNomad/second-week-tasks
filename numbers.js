@@ -1,0 +1,22 @@
+let age = 25
+let birthYear = 1997
+let birthDay = 7
+let bros = 1
+let sisters = 2
+let members = 6
+let cost = 20
+let currYear = 2022
+let dollar = 60
+let euro = 70
+let btc = 500000
+
+age = currYear - birthYear;
+birthYear = currYear - age;
+members = sisters + bros;
+let moneyEuro = euro * 1000;
+let moneyDollar = dollar * 2.5;
+let manyBtc = btc / 1000
+let strangeRes = cost / dollar
+let parents = members - bros - sisters
+let nul = 0 / age
+let strangeRes2 = 35 - age
